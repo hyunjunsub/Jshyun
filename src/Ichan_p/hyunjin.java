@@ -4,8 +4,8 @@ class hung {
 	
 	public hung(String a) {
 		// TODO Auto-generated constructor stub
-		
-		System.out.println(a+"��");
+		준섭이 ㅅㅅ
+		System.out.println(a+"��");
 		
 	}
 	
